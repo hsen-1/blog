@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+.box{
+    width: 900px;
+    height: auto;
+    margin: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.title{
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.text{
+    border: 1px solid black;
+}
+
+.text1{
+    border:  1px solid black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pic{
+    width: 900px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.pic img{
+    width: 900px;
+    height: 600px;
+}
